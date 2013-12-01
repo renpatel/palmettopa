@@ -2,3 +2,4 @@ name: palmettoPA
 markdown: redcarpet
 baseurl: 
 permalink: /blog/:title
+multiviews: true
