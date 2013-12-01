@@ -11,3 +11,5 @@ March 1, 2014 Woodmont High School
 
 March 8, 2014 Wren High School
 If you are interested in signing up your Winter Percussion or Winter Guard unit, please contact us to give your students an educational, affordable, and meaningful experience today! info@palmettopa.org
+
+<iframe src="https://mapsengine.google.com/map/embed?mid=z25w85zE5qq0.kMSaJ1EAFYw8" width="100%" height="480"></iframe>
