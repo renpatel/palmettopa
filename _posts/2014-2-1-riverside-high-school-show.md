@@ -1,5 +1,4 @@
-#Riverside High School
-###February 8, 2014
+###Saturday, February 8, 2014
 
 Below is the schedule for this weekends show, you will also find other important information for the weekend.
 
